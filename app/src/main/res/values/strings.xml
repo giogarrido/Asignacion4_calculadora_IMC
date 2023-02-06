@@ -1,8 +1,6 @@
 <resources>
     <string name="app_name">Asignacion4_calculadora_IMC</string>
-    <string name="estatura">Estatura</string>
-    <string name="peso">Peso</string>
     <string name="IMC">Calcular IMC</string>
-    <string name="introEstatura">En metros</string>
-    <string name="introPeso">En kilogramos</string>
+    <string name="introEstatura">Estatura (x.xx)</string>
+    <string name="introPeso">Kilogramos (x.xx)</string>
 </resources>
